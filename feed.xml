@@ -7,13 +7,40 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>از مرگ...</title>
+        
+        
+          <description>&lt;p&gt;هرگز از مرگ نهراسیده‌ام  &lt;br /&gt;
+اگرچه دستانش از ابتذال شکننده‌تر بود. &lt;br /&gt;
+هراسِ من ــ باری ــ همه از مردن در سرزمینی‌ست &lt;br /&gt;
+که مزدِ گورکن &lt;br /&gt;
+از بهای آزادیِ آدمی &lt;br /&gt;
+افزون باشد. &lt;br /&gt;
+جُستن &lt;br /&gt;
+یافتن &lt;br /&gt;
+و آنگاه &lt;br /&gt;
+به اختیار برگزیدن &lt;br /&gt;
+و از خویشتنِ خویش &lt;br /&gt;
+بارویی پی‌افکندن ــ &lt;br /&gt;
+اگر مرگ را از این همه ارزشی بیش‌تر باشد &lt;br /&gt;
+حاشا، حاشا که هرگز از مرگ هراسیده باشم.&lt;/p&gt;
+
+&lt;p&gt;#احمد_شاملو&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 07 Feb 2017 14:50:00 +0330</pubDate>
+        <link>http://localhost:4000/from-death.html</link>
+        <guid isPermaLink="true">http://localhost:4000/from-death.html</guid>
+      </item>
+    
+      <item>
         <title>دیوانه باش!</title>
         
         
           <description>&lt;p&gt;نه نور، چشمانم را اذیت می‌کند، نه صدا آزارم می‌دهد و نه از محبت دیگران آزرده می‌شوم ولی می‌دانم که دارم دیوانه می‌شوم. انگار آدم‌ها همان‌هایی نیستن که دیروز میشناختم. تعجب می‌کنم این همه مدت چگونه دوام آورده‌ام بینشان. عقایدشان آزارام می‌دهد. انگار از قصد اینطور احمقانه افاضه فضل می‌کنند. همگی عوض شده‌اند؛ اصرار هم دارند من تغییر کرده‌ام. دیگر نمی‌توانم با اینها ادامه دهم. دیگر بریده‌ام. دارم تمام می‌شوم، حقیقتا دارم تمام می‌شوم.&lt;/p&gt;
 </description>
         
-        <pubDate>Sun, 10 Nov 2013 10:18:00 +0330</pubDate>
+        <pubDate>Mon, 06 Feb 2017 23:00:00 +0330</pubDate>
         <link>http://localhost:4000/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://localhost:4000/welcome-to-jekyll.html</guid>
       </item>

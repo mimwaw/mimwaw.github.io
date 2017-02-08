@@ -257,7 +257,7 @@ em, i { font-style: italic; }
 .post h1 {
 	margin-bottom: 20px;
 	color: #222;
-	font: 300 32px/1.4em "Vazir", Helvetica,Arial,sans-serif;
+	font: normal 32px/1.4em "Vazir", Helvetica,Arial,sans-serif;
 }
 
 .post h2 {
